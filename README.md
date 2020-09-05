@@ -18,4 +18,5 @@ Tampilan ini akan muncul ketika kita telah menyiram tanamannnya
 ![6](https://user-images.githubusercontent.com/63888291/92298738-2f7b2380-ef76-11ea-9402-049af60b0058.jpeg)
 # Tampilan Widget
 Pada aplikasi My Garden ini  memiliki fitur yang menarik yaitu widget yang bisa dimunculkan dengan cara menekan layar beberapa saat lalu pilih widget tekan MY Garden lalu seret ke layar utama
+
 ![7](https://user-images.githubusercontent.com/63888291/92298740-3144e700-ef76-11ea-919f-eca20865fbf5.jpeg)
